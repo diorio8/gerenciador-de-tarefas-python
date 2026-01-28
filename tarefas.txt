@@ -5,3 +5,9 @@ resolver exercicios de algoritmos
 fazer mini-projeto de CLI
 estudar C
 estudar C++
+estudar Python - funções e listas ✓
+fazer exercícios de git e github ✓
+atualizar perfil LinkedIn
+planejar cronograma semanal de estudos
+revisar código do projeto
+testar nova funcionalidades de algum projeto novo
