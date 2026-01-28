@@ -26,4 +26,17 @@ adicionar_tarefa("Revisar código do projeto")
 adicionar_tarefa("Testar nova funcionalidades de algum projeto novo")
 
 # mostrar todas as tarefas
-print(tarefas)
+#print(tarefas)
+
+# função para listar todas as tarefas
+def listar_tarefas():
+    """mostra todas as tarefas na lista"""
+    if len(tarefas) == 0:
+        print("Não há tarefas para listar.")
+    else:
+        print("lista de tarefas:")
+        for i, t in enumerate(tarefas, start=1):
+            print(f"{i}. {t}")
+
+# função para listar todas as tarefas
+#listar_tarefas()
