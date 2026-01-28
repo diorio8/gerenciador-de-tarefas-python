@@ -1,0 +1,7 @@
+aprender sobre estruturas de dados
+criar funções de calculo de media
+implementar controle de estoque simples
+resolver exercicios de algoritmos
+fazer mini-projeto de CLI
+estudar C
+estudar C++
